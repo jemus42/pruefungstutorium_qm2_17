@@ -66,18 +66,7 @@ theme_set(theme_readthedown(base_size = 16))
 
 ## Für die letzte Reihe
 
-<div class = "fragment">
-### Slides
-
-<span class = "big">[link.jemu.name/qmpW17](https://link.jemu.name/qmpW17)</span>
-</div><div class = "fragment">
-### Alles auf einmal
-
-<span class = "big">[link.jemu.name/qmpW17w](https://link.jemu.name/qmpW17w)</span>
-</div><div class = "fragment">
-### Ordner
-
-<span class = "big">[public.tadaa-data.de/QM](https://public.tadaa-data.de/QM)</span>
+<span class = "big">[public.tadaa-data.de/pruefungstutorien](https://public.tadaa-data.de/pruefungstutorien)</span>
 
 ## Agenda
 
